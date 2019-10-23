@@ -26,3 +26,4 @@ Scenario: creating a new movie
   Then I should see "The Wen Movie was successfully created."
   And I should see "PG-13"
   And I should see "2021-06-08"
+
